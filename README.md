@@ -1,0 +1,1 @@
+## Make sure to include your API key in the config.yaml file you make; the weather.log file will be generated on its own. And I have no idea why I felt the need to waste time on this (read lines 117-119 if any location goes wrong)
